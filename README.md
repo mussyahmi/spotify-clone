@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Spotify Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Spotify clone built using React.
+
+# Author
+
+Mustafa Syahmi (mussyahmi)
+
+# Demo
+
+The app is deployed using Firebase at https://spotify-clone-1aa56.web.app/
 
 ## Available Scripts
 
